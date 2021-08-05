@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fiesta y enigma
-subtitle: en la literatura del México virreinal
+title: From Literary Theory
+subtitle: to Theories of Culture
 bigimg: https://artsdot.com/ADC/Art-ImgScreen-4.nsf/O/A-8DP8ZC/$FILE/Kazimir-severinovich-malevich-suprematism-supremus-58-.Jpg
 ---
 

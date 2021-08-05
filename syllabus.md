@@ -13,7 +13,6 @@ bigimg: /img/4partes.jpg
 <br>
 <hr>
 <br>
-<br>
 
 # Class I
 
@@ -25,6 +24,8 @@ bigimg: /img/4partes.jpg
 
 - Friederich Hölderin,["In lovely blue.."](http://timothyquigley.net/cont/holderlin-blue.pdf) 
 - Sammuel Beckett, ["What is the word"](http://timothyquigley.net/cont/holderlin-blue.pdf) | ["Comment dire"](http://www.florilege.free.fr/florilege/beckett/commentd.htm)
+
+<br>
 
 #  Class 2
 ## The Two Beginings
@@ -72,4 +73,33 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 - Foucault, "What Is an Author?"
 - Julia Kristeva, "Revolution in Poetic Language", selection
 
+<br>
+
+# Class 8. Post-Structuralism
+
+- Barthes, The Death of the Author and From Work to Text
+- Foucault, "What Is an Author?"
+- Julia Kristeva, "Revolution in Poetic Language", selection
+
+# Class 9. Deconstruction
+
+- Derrida
+
+# Class 10. 
+
+- Deleuze, "Kafka et la litterature mineur", 
+
+# Class 11. From Gender to the Chtuluscene 
+
+- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
+- Donna Haraway, ["A Manifesto for Cyborgs"] and ["The Companion Species Manifesto"]
+
+# Class 12. Postcolonial
+
+- Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
+- Hommi Bhabha
+
+# Class 13. Black
+
+- Gli
 ---

@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Name of website
-title: Fiesta y enigma
+title: Theory Seminar
 
 # Short description of your site
-description: La literatura del México virreinal
+description: Theory Seminar at BU
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -31,6 +31,7 @@ navbar-links:
     - Courses Grading: "grading"
     - Assignments: "assignments"
     - Resources: "resources"
+    - Bibliography: "bibliography"
   <i class="fas fa-book-open"></i> Readings: "syllabus"
   <i class="far fa-calendar-alt"></i> Schedule: "calendar"
   Blog: "blog"

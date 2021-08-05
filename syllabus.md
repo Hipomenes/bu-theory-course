@@ -41,10 +41,14 @@ bigimg: /img/4partes.jpg
 - Christine de Pizan, ["Christine's Reaction to Jean de Montreuil's Treatise on the
 Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
+<br>
+
 # Class 4
 ## Historical Consciousnes
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
+
+<br>
 
 # Class 5. Structural linguistics
 
@@ -55,17 +59,23 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 - Gilles Deleuze, ["A quoi reconnait-on le structuralisme?"]()
 
+<br>
+
 # Class 6. 
 
 - Tzvetan Todorov, ["Some Approaches to Russian Formalism"]() (1971)
 - Viktor Shlovsky, ["Art as Device"]()
 - Mikhail Bakhtin, ["Epic and Novel: Toward a Methodology for the Study of the Novel"]()
 
+<br>
+
 # Class 7. Psychoanalysis
 
 - Freud, ["The Interpretation of Dreamsr]
 - Freud, ["Moses"]
 - Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud", Norton selection]() (1957)
+
+<br>
 
 # Class 8. Post-Structuralism
 
@@ -81,9 +91,13 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 - Foucault, "What Is an Author?"
 - Julia Kristeva, "Revolution in Poetic Language", selection
 
+<br>
+
 # Class 9. Deconstruction
 
 - Derrida
+
+<br>
 
 # Class 10. 
 

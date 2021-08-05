@@ -23,7 +23,7 @@ bigimg: /img/4partes.jpg
 ## In class
 
 - Friederich Hölderin,["In lovely blue.."](http://timothyquigley.net/cont/holderlin-blue.pdf) 
-- Sammuel Beckett, ["What is the word"](http://timothyquigley.net/cont/holderlin-blue.pdf) | ["Comment dire"](http://www.florilege.free.fr/florilege/beckett/commentd.htm)
+- Sammuel Beckett, ["What is the word"](http://timothyquigley.net/cont/holderlin-blue.pdf) / ["Comment dire"](http://www.florilege.free.fr/florilege/beckett/commentd.htm)
 
 <br>
 

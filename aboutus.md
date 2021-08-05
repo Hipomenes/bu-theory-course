@@ -1,7 +1,7 @@
 ---
 layout: page
-title: From Literary Theory
-subtitle: to Theories of Culture
+title: theory seminar
+subtitle: From Literary Theory to Theories of Culture
 bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-images.forbes.com%2Fjonathonkeats%2Ffiles%2F2014%2F09%2F107-1-1928x1940.jpg&f=1&nofb=1
 ---
 

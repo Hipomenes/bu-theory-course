@@ -71,8 +71,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 # Class 7. Psychoanalysis
 
-- Freud, ["The Interpretation of Dreamsr]
-- Freud, ["Moses"]
+- Freud, ["The Interpretation of Dreams]()
+- Freud, ["Moses"]()
 - Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud", Norton selection]() (1957)
 
 <br>
@@ -85,13 +85,6 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# Class 8. Post-Structuralism
-
-- Barthes, The Death of the Author and From Work to Text
-- Foucault, "What Is an Author?"
-- Julia Kristeva, "Revolution in Poetic Language", selection
-
-<br>
 
 # Class 9. Deconstruction
 
@@ -106,7 +99,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 # Class 11. From Gender to the Chtuluscene 
 
 - Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
-- Donna Haraway, ["A Manifesto for Cyborgs"] and ["The Companion Species Manifesto"]
+- Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
 
 # Class 12. Postcolonial
 

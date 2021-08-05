@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings
-bigimg: /img/4partes.jpg
+bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3minutosdearte.com%2Fwp-content%2Fuploads%2F2021%2F04%2FC6-The-Suprematists-Compositions-of-Malevich-02.jpg&f=1&nofb=1
 ---
 
 # Weeks and Topics

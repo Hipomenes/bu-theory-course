@@ -2,7 +2,7 @@
 layout: page
 title: theory seminar
 subtitle: From Literary Theory to Theories of Culture
-bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-images.forbes.com%2Fjonathonkeats%2Ffiles%2F2014%2F09%2F107-1-1928x1940.jpg&f=1&nofb=1
+bigimg: https://upload.wikimedia.org/wikipedia/commons/6/6a/Kazimir_Malevich_-_Suprematism_-_Google_Art_Project.jpg
 ---
 
 Este curso propone una recorrido posible a través

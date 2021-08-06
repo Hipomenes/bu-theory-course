@@ -74,7 +74,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 - Freud, ["Moses"]()
 - Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud", Norton selection]() (1957)
 
-<br>
+![kafka2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9iVJQpSQgdhlhXvwshCo6OkshTQLgUgUe6aQYHRY8BUnzJX_41pjQUCsDAxSaLl2j_E&usqp=CAU)
 
 ## VIII. Post-Structuralism
 
@@ -94,20 +94,28 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 - Gilles Deleuze and Felix Guattari (1975), [*Kafka: Toward a Minor Literature*]()
 
-## XI. From Gender to the Chthulucene 
+<br>
+
+## XI. From Perforativity to the Chthulucene 
 
 - Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
 - Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
+
+<br>
 
 ## XII. Postcolonialsm, Decolonialism
 
 - Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
 - Hommi Bhabha
 
+<br>
+
 ## XIII. Beyond North-Atlantic Universals 
 
 - Glissant
 - Fanon
+
+<br>
 
 ## XIV Final Paper Workshop
 

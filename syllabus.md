@@ -10,10 +10,6 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 * TOC
 {:toc}
 
-<br>
-<hr>
-<br>
-
 ![kakfa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn8.openculture.com%2Fwp-content%2Fuploads%2F2014%2F02%2FRunner-1907-1908.jpg&f=1&nofb=1)
 
 ## I. Introduction: *Dichtung und Warheit* 

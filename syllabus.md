@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings
-bigimg: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg/1200px-Suprematist_Composition_-_Kazimir_Malevich.jpg
+bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=667ba2f0b131896f
 ---
 
 # Weeks and Topics

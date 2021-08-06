@@ -1,6 +1,6 @@
 ---
 layout: page
-title: theory seminar
+title: Theory Seminar
 subtitle: From Literary Theory to Theories of Culture
 bigimg: https://upload.wikimedia.org/wikipedia/commons/6/6a/Kazimir_Malevich_-_Suprematism_-_Google_Art_Project.jpg
 ---

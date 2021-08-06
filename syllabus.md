@@ -15,8 +15,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 <br>
 
 # Class I
-
-## Introduction. *Dichtung un Warheit* 
+## Introduction. *Dichtung und Warheit* 
 
 - Martin Heidegger (1951), ["...Poetically Man Dwelts..."]()
 
@@ -30,42 +29,49 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 #  Class 2
 ## The Two Beginings
 
-- Marsilio Ficino, ["Commentary on Plato's "*Ion*"]()
-- Aristotle, [*Poetics*, chaps. 1-10]().
+- Plato, [*Ion*]() and [*The Replubic*, selection]().
+- Aristotle, [*Poetics*, 1-14]().
+
+<br>
 
 # Class 3. 
 
 ## Allegory and Interpretation
 
-- Dante, ["Letter XIII to Can Grande della Scala about allegory "]()
+- Dante, ["Letter XIII to Can Grande della Scala about allegory"](https://faculty.georgetown.edu/jod/cangrande.english.html)
 - Christine de Pizan, ["Christine's Reaction to Jean de Montreuil's Treatise on the
 Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
 # Class 4
-## Historical Consciousnes
+## Social Contexts and Historical Consciousnes
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
+- Hans Robert Jauss (1976), ["Literary history as a challenge to literary theory"]()
 
 <br>
 
-# Class 5. Structural linguistics
+# Class 5. The Structuralist Revolution
 
-- Ferdinand de Saussure, [*Course in General Linguistics*, Intro: 1-5, I: 1, II: 1, 3-4]()
+- Ferdinand de Saussure, [*Course in General Linguistics*, Intro: 1-5, I: 1, II: 1, 3-4](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
 
 ## Suggested Reading
 
-- Gilles Deleuze, ["A quoi reconnait-on le structuralisme?"]()
+- Gilles Deleuze, ["A quoi reconnait-on le structuralisme?"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/deleuze-A%20quoi%20reconnait-on%20le%20structuralisme-1972.pdf?csf=1&web=1&e=nNBQyB)
 
 <br>
 
-# Class 6. 
+# Class 6. Russian Formalism and its Aftermath
+
+- Viktor Shlovsky, ["Art as Device"]()
+- Boris Mikhailovich Eikhenbaum, ["The theory of the 'Formal Method'"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/theory_fomal_method.pdf?csf=1&web=1&e=bnCAOG) (1926)
+- Mikhail Bakhtin, ["Epic and Novel: Toward a Methodology for the Study of the Novel"]()
+
+## Suggested Reading
 
 - Tzvetan Todorov, ["Some Approaches to Russian Formalism"]() (1971)
-- Viktor Shlovsky, ["Art as Device"]()
-- Mikhail Bakhtin, ["Epic and Novel: Toward a Methodology for the Study of the Novel"]()
 
 <br>
 

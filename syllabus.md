@@ -14,7 +14,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 <hr>
 <br>
 
-# I.
+# I
 ## Introduction: *Dichtung und Warheit* 
 
 - Martin Heidegger (1951), ["...Poetically Man Dwelts..."]()
@@ -26,7 +26,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-#  II.
+#  II
 ## The Two Beginings
 
 - Plato, [*Ion*]() and [*The Replubic*, selection]().
@@ -34,7 +34,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-# III. 
+# III 
 
 ## Allegory and Interpretation
 
@@ -44,7 +44,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# IV.
+# IV
 ## Social Contexts and Historical Consciousnes
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
@@ -52,7 +52,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# V. 
+# V 
 ## The Structuralist Revolution
 
 - Ferdinand de Saussure, [*Course in General Linguistics*, Intro: 1-5, I: 1, II: 1, 3-4](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
@@ -64,7 +64,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# VI. 
+# VI 
 ## Russian Formalism and its Aftermath
 
 - Viktor Shlovsky, ["Art as Device"]()
@@ -77,7 +77,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# VII. 
+# VII 
 ## Psychoanalysis
 
 - Freud, ["The Interpretation of Dreams]()
@@ -86,7 +86,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# VIII. 
+# VIII 
 ## Post-Structuralism
 
 - Barthes, The Death of the Author and From Work to Text
@@ -96,32 +96,36 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 <br>
 
 
-# IX. 
+# IX 
 ## Deconstruction
 
 - Derrida
 
 <br>
 
-# X. 
+# X 
 ## Against Interpertation
 
 - Deleuze, "Kafka et la litterature mineur", 
 
-# XI. 
+# XI
 ## From Gender to the Chtuluscene 
 
 - Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
 - Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
 
-# XII. 
+# XII 
 ## Postcolonial Critique
 
 - Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
 - Hommi Bhabha
 
-# XIII. 
+# XIII 
 ## Against Universals 
 
-- Gli
+-
+
+# XIV
+
+Final Paper Workshop
 ---

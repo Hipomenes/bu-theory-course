@@ -14,20 +14,18 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 <hr>
 <br>
 
-# I
-## Introduction: *Dichtung und Warheit* 
+## I. Introduction: *Dichtung und Warheit* 
 
 - Martin Heidegger (1951), ["...Poetically Man Dwelts..."]()
 
-## In class
+### In class
 
 - Friederich Hölderin,["In lovely blue.."](http://timothyquigley.net/cont/holderlin-blue.pdf) 
 - Sammuel Beckett, ["What is the word"](http://timothyquigley.net/cont/holderlin-blue.pdf) / ["Comment dire"](http://www.florilege.free.fr/florilege/beckett/commentd.htm)
 
 <br>
 
-#  II
-## The Two Beginings
+## II. The Two Beginings
 
 - Plato, [*Ion*]() and [*The Replubic*, selection]().
 - Aristotle, [*Poetics*, 1-14]().

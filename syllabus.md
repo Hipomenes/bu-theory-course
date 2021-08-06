@@ -14,7 +14,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## I. Introduction: *Dichtung und Warheit* 
 
-- Martin Heidegger (1951), ["...Poetically Man Dwelts..."]()
+- Martin Heidegger, ["...Poetically Man Dwelts..."]() (1951)
 
 ### In class
 
@@ -41,7 +41,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 ## IV. Social Contexts and Historical Awareness
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
-- Hans Robert Jauss (1976), ["Literary history as a challenge to literary theory"]()
+- Hans Robert Jauss, ["Literary history as a challenge to literary theory"]() (1967)
 
 <br>
 
@@ -92,21 +92,21 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## X. Death to the Signifier
 
-- Gilles Deleuze and Felix Guattari (1975), [*Kafka: Toward a Minor Literature*]()
+- Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*]() (1975)
 
 <br>
 
-## XI. From Perforativity to the Chthulucene 
-
-- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
-- Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
-
-<br>
-
-## XII. Postcolonialsm, Decolonialism
+## XI. Postcolonialsm, Decolonialism
 
 - Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
 - Hommi Bhabha
+
+<br>
+
+## XII. From Gender Performance to the Chthulucene 
+
+- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
+- Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
 
 <br>
 

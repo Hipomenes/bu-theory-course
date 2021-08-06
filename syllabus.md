@@ -14,8 +14,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 <hr>
 <br>
 
-# Class I
-## Introduction. *Dichtung und Warheit* 
+# I.
+## Introduction: *Dichtung und Warheit* 
 
 - Martin Heidegger (1951), ["...Poetically Man Dwelts..."]()
 
@@ -26,7 +26,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-#  Class 2
+#  II.
 ## The Two Beginings
 
 - Plato, [*Ion*]() and [*The Replubic*, selection]().
@@ -34,7 +34,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-# Class 3. 
+# III. 
 
 ## Allegory and Interpretation
 
@@ -44,7 +44,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# Class 4
+# IV.
 ## Social Contexts and Historical Consciousnes
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
@@ -52,7 +52,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# Class 5. The Structuralist Revolution
+# V. 
+## The Structuralist Revolution
 
 - Ferdinand de Saussure, [*Course in General Linguistics*, Intro: 1-5, I: 1, II: 1, 3-4](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
@@ -63,7 +64,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# Class 6. Russian Formalism and its Aftermath
+# VI. 
+## Russian Formalism and its Aftermath
 
 - Viktor Shlovsky, ["Art as Device"]()
 - Boris Mikhailovich Eikhenbaum, ["The theory of the 'Formal Method'"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/theory_fomal_method.pdf?csf=1&web=1&e=bnCAOG) (1926)
@@ -75,7 +77,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# Class 7. Psychoanalysis
+# VII. 
+## Psychoanalysis
 
 - Freud, ["The Interpretation of Dreams]()
 - Freud, ["Moses"]()
@@ -83,7 +86,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# Class 8. Post-Structuralism
+# VIII. 
+## Post-Structuralism
 
 - Barthes, The Death of the Author and From Work to Text
 - Foucault, "What Is an Author?"
@@ -92,27 +96,32 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 <br>
 
 
-# Class 9. Deconstruction
+# IX. 
+## Deconstruction
 
 - Derrida
 
 <br>
 
-# Class 10. 
+# X. 
+## Against Interpertation
 
 - Deleuze, "Kafka et la litterature mineur", 
 
-# Class 11. From Gender to the Chtuluscene 
+# XI. 
+## From Gender to the Chtuluscene 
 
 - Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
 - Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
 
-# Class 12. Postcolonial
+# XII. 
+## Postcolonial Critique
 
 - Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
 - Hommi Bhabha
 
-# Class 13. Black
+# XIII. 
+## Against Universals 
 
 - Gli
 ---

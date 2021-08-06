@@ -32,9 +32,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-# III 
-
-## Allegory and Interpretation
+## III. The Art of Interpretation
 
 - Dante, ["Letter XIII to Can Grande della Scala about allegory"](https://faculty.georgetown.edu/jod/cangrande.english.html)
 - Christine de Pizan, ["Christine's Reaction to Jean de Montreuil's Treatise on the
@@ -42,41 +40,37 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# IV
-## Social Contexts and Historical Consciousnes
+## IV. Social Contexts and Historical Awareness
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
 - Hans Robert Jauss (1976), ["Literary history as a challenge to literary theory"]()
 
 <br>
 
-# V 
-## The Structuralist Revolution
+## V. The Structuralist Revolution
 
 - Ferdinand de Saussure, [*Course in General Linguistics*, Intro: 1-5, I: 1, II: 1, 3-4](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
 
-## Suggested Reading
+### Suggested Reading
 
 - Gilles Deleuze, ["A quoi reconnait-on le structuralisme?"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/deleuze-A%20quoi%20reconnait-on%20le%20structuralisme-1972.pdf?csf=1&web=1&e=nNBQyB)
 
 <br>
 
-# VI 
-## Russian Formalism and its Aftermath
+## VI. From Russian Formalism to Bakhtin
 
 - Viktor Shlovsky, ["Art as Device"]()
 - Boris Mikhailovich Eikhenbaum, ["The theory of the 'Formal Method'"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/theory_fomal_method.pdf?csf=1&web=1&e=bnCAOG) (1926)
 - Mikhail Bakhtin, ["Epic and Novel: Toward a Methodology for the Study of the Novel"]()
 
-## Suggested Reading
+### Suggested Reading
 
 - Tzvetan Todorov, ["Some Approaches to Russian Formalism"]() (1971)
 
 <br>
 
-# VII 
-## Psychoanalysis
+## VII. Language and the Unconscious 
 
 - Freud, ["The Interpretation of Dreams]()
 - Freud, ["Moses"]()
@@ -84,8 +78,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-# VIII 
-## Post-Structuralism
+## VIII. Post-Structuralism
 
 - Barthes, The Death of the Author and From Work to Text
 - Foucault, "What Is an Author?"
@@ -93,37 +86,31 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
+## IX. Destruktion / Deconstruction
 
-# IX 
-## Deconstruction
-
-- Derrida
+- Jacques Derrida, ["White Mythology: Metaphor in the Text of Philosophy"]()
 
 <br>
 
-# X 
-## Against Interpertation
+## X. Death to the Signifier
 
-- Deleuze, "Kafka et la litterature mineur", 
+- Gilles Deleuze and Felix Guattari (1975), [*Kafka: Toward a Minor Literature*]()
 
-# XI
-## From Gender to the Chtuluscene 
+## XI. From Gender to the Chthulucene 
 
 - Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
 - Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
 
-# XII 
-## Postcolonial Critique
+## XII. Postcolonialsm, Decolonialism
 
 - Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
 - Hommi Bhabha
 
-# XIII 
-## Against Universals 
+## XIII. Beyond North-Atlantic Universals 
 
--
+- Glissant
+- Fanon
 
-# XIV
+## XIV Final Paper Workshop
 
-Final Paper Workshop
 ---

@@ -86,14 +86,15 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## IX. Destruktion / Deconstruction
 
-- Jacques Derrida, ["White Mythology: Metaphor in the Text of Philosophy"]()
+- Jacques Derrida, [*Of Grammatology*]() ()
+- Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"]() (1970)
 
 <br>
 
 ## X. Against the Signifier
 
 - Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*]() (1975)
-- Gilles Deleuze and Felix Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia* ["Introduction: Rhizome"]() (1987)
+- Gilles Deleuze and Felix Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia*, ["Introduction: Rhizome"]() (1987)
 
 <br>
 

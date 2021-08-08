@@ -90,9 +90,10 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 <br>
 
-## X. Death to the Signifier
+## X. Against the Signifier
 
 - Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*]() (1975)
+- Gilles Deleuze and Felix Guattari, [Introduction: Rhizome]() (1987)
 
 <br>
 

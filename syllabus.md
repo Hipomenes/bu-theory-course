@@ -101,7 +101,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 ## XI. Postcolonialsm, Decolonialism
 
 - Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
-- Hommi Bhabha
+- Hommi Bhabha, ["The Commitment to Theory"]()
 
 <br>
 
@@ -114,8 +114,12 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## XIII. Beyond North-Atlantic Universals 
 
-- Glissant
-- Fanon
+
+- Glissant, [The Poetics of Relation ]()
+
+### Recommended 
+
+- Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
 
 <br>
 

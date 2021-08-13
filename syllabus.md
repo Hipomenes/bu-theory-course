@@ -78,15 +78,15 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## VIII. Post-Structuralism
 
-- Barthes, The Death of the Author and From Work to Text
-- Foucault, "What Is an Author?"
-- Julia Kristeva, "Revolution in Poetic Language", selection
+- Barthes, ["The Death of the Author"]() and ["From Work to Text"]()
+- Foucault, ["What Is an Author?"]()
+- Julia Kristeva, ["Revolution in Poetic Language", selection]()
 
 <br>
 
 ## IX. Destruktion / Deconstruction
 
-- Jacques Derrida, [*Of Grammatology*]() ()
+- Jacques Derrida, [*Of Grammatology*]()
 - Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"]() (1970)
 
 <br>
@@ -100,7 +100,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## XI. Postcolonialsm, Decolonialism
 
-- Spivak, ["A Critique of Postcolonial Reason"]() and ["Can the subaltern speak?"]()
+- Spivak, ["Can the subaltern speak?"]()
 - Hommi Bhabha, ["The Commitment to Theory"]()
 
 <br>
@@ -108,7 +108,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 ## XII. From Gender Performance to the Chthulucene 
 
 - Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
-- Donna Haraway, ["A Manifesto for Cyborgs"](1983) and ["The Companion Species Manifesto"]()
+- Donna Haraway, ["A Manifesto for Cyborgs"]()(1983) and ["The Companion Species Manifesto"]()
 
 <br>
 

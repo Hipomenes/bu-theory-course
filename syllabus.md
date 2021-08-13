@@ -25,7 +25,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## II. The Two Beginings
 
-- Plato, [*Ion*]() and [*The Replubic*, selection]().
+- Plato, [*Ion*]() and [*The Replubic*, selections]().
 - Aristotle, [*Poetics*, 1-14]().
 
 <br>
@@ -34,7 +34,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 - Dante, ["Letter XIII to Can Grande della Scala about allegory"](https://faculty.georgetown.edu/jod/cangrande.english.html)
 - Christine de Pizan, ["Christine's Reaction to Jean de Montreuil's Treatise on the
-Roman de la Rose"]() and ["The Book of the City of Ladies"]()
+Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 <br>
 
@@ -70,8 +70,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## VII. Language and the Unconscious 
 
-- Freud, ["The Interpretation of Dreams]()
-- Freud, ["Moses"]()
+- Freud, [*The Interpretation of Dreams*, selections]()
+- Freud, ["The Moses of Michelangelo"]() (1914)
 - Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud", Norton selection]() (1957)
 
 ![kafka2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9iVJQpSQgdhlhXvwshCo6OkshTQLgUgUe6aQYHRY8BUnzJX_41pjQUCsDAxSaLl2j_E&usqp=CAU)
@@ -86,7 +86,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies"]()
 
 ## IX. Destruktion / Deconstruction
 
-- Jacques Derrida, [*Of Grammatology*]()
+- Jacques Derrida, [*Of Grammatology*, selections]()
 - Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"]() (1970)
 
 <br>

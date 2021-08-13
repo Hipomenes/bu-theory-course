@@ -115,7 +115,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 ## XIII. Beyond North-Atlantic Universals 
 
 
-- Glissant, [The Poetics of Relation ]()
+- Glissant, [*The Poetics of Relation*, selections]()
 
 ### Recommended 
 

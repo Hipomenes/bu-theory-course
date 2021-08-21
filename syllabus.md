@@ -87,7 +87,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## IX. Destruktion / Deconstruction
 
-- Jacques Derrida, [*Of Grammatology*, selections]()
+- Jacques Derrida, [*Of Grammatology*]() &ensp; <i class="far fa-bookmark"></i> Preface, Part I. 
+The Exorbitant. Question of Method
 - Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"]() (1970)
 
 <br>
@@ -95,7 +96,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 ## X. Against the Signifier
 
 - Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*]() (1975)
-- Gilles Deleuze and Felix Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia*, ["Introduction: Rhizome"]() (1987)
+- Gilles Deleuze and Felix Guattari, [*A Thousand Plateaus: Capitalism and Schizophrenia*]() (1987) &ensp; <i class="far fa-bookmark"></i> ["Introduction: Rhizome"]() 
 
 <br>
 
@@ -108,8 +109,8 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## XII. From Gender Performance to the Chthulucene 
 
-- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*]() (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-3
-- Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"]()(1983)
+- Judith Butler, [*Gender Trouble: Feminism and the Subversion of Identity*]() (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-3
+- Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"]() (1983)
 
 <br>
 

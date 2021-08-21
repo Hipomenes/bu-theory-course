@@ -100,17 +100,16 @@ The Exorbitant. Question of Method
 
 <br>
 
-## XI. Postcolonialsm, Decolonialism
-
-- Spivak, ["Can the subaltern speak?"]()
-- Hommi Bhabha, ["The Commitment to Theory"]()
-
-<br>
-
-## XII. From Gender Performance to the Chthulucene 
+## XI. From Gender Performance to the Chthulucene 
 
 - Judith Butler, [*Gender Trouble: Feminism and the Subversion of Identity*]() (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-3
 - Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"]() (1983)
+
+<br>
+
+## XII. (Thanksgiving Break)
+
+*Independent research.*
 
 <br>
 

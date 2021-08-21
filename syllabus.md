@@ -25,7 +25,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## II. The Two Beginings
 
-- Plato, [*Ion*]() and [*The Replubic*, selections]().
+- Plato, [*Ion*]()
+- Plato, [*The Replubic*, selections](). &emsp; <i class="far fa-bookmark"></i> Books II, III, X
 - Aristotle, [*Poetics*](). &emsp; <i class="far fa-bookmark"></i> Sec. I-XIV
 
 <br>
@@ -47,7 +48,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## V. The Structuralist Revolution
 
-- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf) (1906 - 1911). ☞ Intro: 1-5, I: 1, II: 1, 3-4
+- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf) (1906 - 1911). &emsp; <i class="far fa-bookmark"></i> Intro: 1-5, I: 1, II: 1, 3-4
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
 
 ### Suggested Reading
@@ -115,7 +116,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 ## XIII. Beyond North-Atlantic Universals 
 
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
-- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*]()
+- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &emsp; <i class="far fa-bookmark"></i> Preface & Chaps. 1-2, 6.
 
 <br>
 

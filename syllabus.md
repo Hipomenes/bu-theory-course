@@ -47,7 +47,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## V. The Structuralist Revolution
 
-- Ferdinand de Saussure, [*Course in General Linguistics*, Intro: 1-5, I: 1, II: 1, 3-4](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
+- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
 
 ### Suggested Reading
@@ -70,7 +70,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## VII. Language and the Unconscious 
 
-- Freud, [*The Interpretation of Dreams*, selections]()
+- Freud, [*The Interpretation of Dreams*]()
 - Freud, ["The Moses of Michelangelo"]() (1914)
 - Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud", Norton selection]() (1957)
 
@@ -80,7 +80,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 - Barthes, ["The Death of the Author"]() and ["From Work to Text"]()
 - Foucault, ["What Is an Author?"]()
-- Julia Kristeva, ["Revolution in Poetic Language", selection]()
+- Julia Kristeva, ["Revolution in Poetic Language"]()
 
 <br>
 
@@ -107,19 +107,15 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## XII. From Gender Performance to the Chthulucene 
 
-- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*, selection]() (1990)
+- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*]() (1990)
 - Donna Haraway, ["A Manifesto for Cyborgs"]()(1983) and ["The Companion Species Manifesto"]()
 
 <br>
 
 ## XIII. Beyond North-Atlantic Universals 
 
-
-- Glissant, [*The Poetics of Relation*, selections]()
-
-### Recommended 
-
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
+- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*]()
 
 <br>
 

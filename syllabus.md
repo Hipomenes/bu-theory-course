@@ -16,6 +16,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 - Martin Heidegger, ["...Poetically Man Dwelts..."](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/courses/ls850-theory-fall-2021-dhc/heidegger-poetically.pdf?csf=1&web=1&e=ljTQAF) (1951)
 
+❧❦❥※
+
 ### In class
 
 - Friederich Hölderin,["In lovely blue.."](http://timothyquigley.net/cont/holderlin-blue.pdf) 

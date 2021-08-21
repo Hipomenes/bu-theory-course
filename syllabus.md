@@ -116,7 +116,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 ## XIII. Beyond North-Atlantic Universals 
 
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
-- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &emsp; <i class="far fa-bookmark"></i> Preface & Chaps. 1-2, 6.
+- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &ensp; <i class="far fa-bookmark"></i> Preface & Chaps. 1-2, 6.
 
 <br>
 

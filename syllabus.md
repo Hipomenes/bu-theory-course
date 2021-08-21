@@ -47,7 +47,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## V. The Structuralist Revolution
 
-- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf)
+- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf) ~ Intro: 1-5, I: 1, II: 1, 3-4
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
 
 ### Suggested Reading

@@ -28,7 +28,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 ## II. The Two Beginings
 
 - Plato, [*Ion*]() and [*The Replubic*, selections]().
-- Aristotle, [*Poetics*](). >> 1-14
+- Aristotle, [*Poetics*](). <i class="far fa-bookmark"></i> Chaps. 1-14
 
 <br>
 

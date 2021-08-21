@@ -26,8 +26,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 ## II. The Two Beginings
 
 - Plato, [*Ion*]()
-- Plato, [*The Replubic*, selections](). &emsp; <i class="far fa-bookmark"></i> Books II, III, X
-- Aristotle, [*Poetics*](). &emsp; <i class="far fa-bookmark"></i> Sec. I-XIV
+- Plato, [*The Replubic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X
+- Aristotle, [*Poetics*](). &ensp; <i class="far fa-bookmark"></i> Sec. I-XIV
 
 <br>
 
@@ -48,7 +48,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## V. The Structuralist Revolution
 
-- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf) (1906 - 1911). &emsp; <i class="far fa-bookmark"></i> Intro: 1-5, I: 1, II: 1, 3-4
+- Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf) (1906 - 1911). &ensp; <i class="far fa-bookmark"></i> Intro: 1-5, I: 1, II: 1, 3-4
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
 
 ### Suggested Reading
@@ -73,7 +73,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 - Freud, [*The Interpretation of Dreams*]()
 - Freud, ["The Moses of Michelangelo"]() (1914)
-- Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud", Norton selection]() (1957)
+- Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud"]() (1957)
 
 ![kafka2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9iVJQpSQgdhlhXvwshCo6OkshTQLgUgUe6aQYHRY8BUnzJX_41pjQUCsDAxSaLl2j_E&usqp=CAU)
 
@@ -108,15 +108,15 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ## XII. From Gender Performance to the Chthulucene 
 
-- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*]() (1990)
-- Donna Haraway, ["A Manifesto for Cyborgs"]()(1983) and ["The Companion Species Manifesto"]()
+- Judith Butler, [*Gender Trouble: Femiuism atld the Subversion of Identity*]() (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-3
+- Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"]()(1983)
 
 <br>
 
 ## XIII. Beyond North-Atlantic Universals 
 
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
-- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &ensp; <i class="far fa-bookmark"></i> Preface & Chaps. 1-2, 6.
+- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-2, 6.
 
 <br>
 

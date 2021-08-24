@@ -91,6 +91,10 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 The Exorbitant. Question of Method
 - Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"]() (1970)
 
+### Interesting Aside
+
+- ["The CIA Reads French Theory: On the Intellectual Labor of Dismantling the Cultural Left"](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
+
 <br>
 
 ## X. Against the Signifier

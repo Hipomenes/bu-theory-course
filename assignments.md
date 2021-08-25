@@ -21,20 +21,19 @@ Every week you will write a response paper based on the readings. Response paper
 
 Your oral presentation hand-out counts as a response paper, and you can skip one, for a total of ten. From these, you must choose (and *indicate at the time of handing them in*) four papers to be graded. 
 
-Extension: two pages, single-spaced. 
+Extension: two pages, single-spaced.
 
-# Midterm 
+# Midterm Exam-Commentary
 
+The midterm exam will gauge your familiarity with the works read during the first half of the semester as well as your critical acumen as an interpreter of theoretical texts. You will choose one from among three pasages and write a **critical-philosophical commentary** on the text. The commentary should begin by framing the passage within the general argument of the work, gauging its relative significance in relation to it, and providing any crucial information ommited from the passage in question. You should then begin a systematic exposition of the passage, fleshing out tacit or implied arguments, filling in all lacunae or elisions, and clarifying all relevant notions, concepts or key terms.
 
-En la primera composición, debes hacer una **comparación y contraste** entre dos o más obras que hemos leído. Puedes concentrarte en un tema concreto, y utilizarlo para comparar dos de las lecturas (por ejemplo, la perspectiva que sobre la riqueza tienen Cervantes de Salazar o Balbuena; la imagen de Asia y el mundo que tienen Balbuena y Chimalpahim; o también puedes comparar dos pinturas). Trata de considerar primero las similitudes y los paralelismos, para luego hacer énfasis en las diferencias. Tu composición debe llevar un título que anuncie su contenido.
+This is an open-book take-home exam.
 
-Para ayudarte en la redacción de tu texto, por favor utiliza la siguiente lista de [frases conectoras](https://drive.google.com/file/d/1HlCccOz82TFvkfbINOV9Yu2IpAXFS00u/view?usp=sharing). En particular, trata de utilizar las frases conectoras que aparecen bajo los encabezados "Para contrastar" y "Para presentar una semejanza". Para entender cómo se usan estas frases en contexto, utiliza el [Corpus Diacrónico de la Lengua](http://corpus.rae.es/cordenet.html).
-
-Por favor entrega tu composición como un documento de Word por Blackboard.
+Extension: three to four pages, single-spaced.
 
 <br>
 
-# Segunda Composición
+# Final Paper
 
 Para esta composición, vamos a trabajar con un gran "diccionario de diccionarios": el [Nuevo Tesoro Lexicográfico de la Lengua Española](http://ntlle.rae.es/ntlle/SrvltGUILoginNtlle).
 

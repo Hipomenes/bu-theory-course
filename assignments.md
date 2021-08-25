@@ -5,6 +5,7 @@ title: Assignments
 
 <br>
 
+A significant part of your final grade (75%) will be based on writing.
 
 
 
@@ -16,8 +17,13 @@ title: Assignments
 
 # Response Papers
 
-Every week you will write a response paper based on the readings. Response papers **should not be summaries nor mere paraphrases.** They need not inform the  reader (the seminar participants) of things we could all glean from the week's readings, but situating the readings within their historical and intellectual context, while not necessary, could be useful. Response papers should present a **critical and dialectical engagement** with the texts, which could mean clarifying a concept or notion, fleshing out implicit ideas or presupositions, reconstructing or analyzing an argument, drawing consequences or delving into what reamins unsaid in the text. Your response should focus on passages, concepts or ideas that intrigued you in one of the readings. Particularly fruitful are perplexing or  seemingly enimatic formulations, vivid or fecund passages, conceptual turns, but also moments of dissonance or inconsistencies. 
+Every week you will write a response paper based on the readings. Response papers **should not be summaries nor mere paraphrases.** They need not inform the reader (in this case, the seminar participants) of things we could all glean from readings, but situating them within their historical, intellectual or polemical context, while not necessary, could be useful. Response papers should present a **critical and dialectical engagement** with the texts, which could mean clarifying a concept or notion, fleshing out implicit ideas or presupositions, reconstructing, analyzing or debunking an argument, drawing consequences or exposing what reamins unsaid in the text. Your response should focus on passages, concepts or ideas that intrigued you. Particularly fruitful are perplexing or seemingly enimatic formulations, dense passages, conceptual turns but also moments of dissonance or inconsistencies.
 
+Your oral presentation hand-out counts as a response paper, and you can skip one, for a total of ten. From these, you must choose (and *indicate at the time of handing them in*) four papers to be graded. 
+
+Extension: two pages, single-spaced. 
+
+# Midterm 
 
 
 En la primera composición, debes hacer una **comparación y contraste** entre dos o más obras que hemos leído. Puedes concentrarte en un tema concreto, y utilizarlo para comparar dos de las lecturas (por ejemplo, la perspectiva que sobre la riqueza tienen Cervantes de Salazar o Balbuena; la imagen de Asia y el mundo que tienen Balbuena y Chimalpahim; o también puedes comparar dos pinturas). Trata de considerar primero las similitudes y los paralelismos, para luego hacer énfasis en las diferencias. Tu composición debe llevar un título que anuncie su contenido.

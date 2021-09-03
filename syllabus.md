@@ -12,7 +12,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ![kakfa](http://cdn8.openculture.com/wp-content/uploads/2014/02/Fencing-1917.jpg)
 
-## I. Introduction: *Dichtung und Warheit* 
+## I. Introduction: *Dichtung und Wahrheit* 
 
 - Martin Heidegger, ["...Poetically Man Dwelts..."](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/courses/ls850-theory-fall-2021-dhc/heidegger-poetically.pdf?csf=1&web=1&e=ljTQAF) (1951)
 

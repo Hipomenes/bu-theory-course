@@ -23,7 +23,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-## II. The Two Beginings
+## II. The Two Beginnings
 
 - Plato, [*Ion*]()
 - Plato, [*The Republic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X

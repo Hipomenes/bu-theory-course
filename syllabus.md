@@ -111,19 +111,23 @@ The Exorbitant. Question of Method
 
 <br>
 
-## XI. (Thanksgiving Break)
+## XI. Postcolonialism 
+
+- TBA
+
+## XII. (Thanksgiving Break)
 
 *Independent research.*
 
 <br>
 
-## XII. Beyond North-Atlantic Universals 
+## XIII. Beyond North-Atlantic Universals 
 
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
 - Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-2, 6.
 
 <br>
 
-## XIII Final Paper Workshop
+## XIV Final Paper Workshop
 
 ![kafka3](http://cdn8.openculture.com/wp-content/uploads/2014/02/Three-Runners-1912-1913.jpg)

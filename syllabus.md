@@ -26,7 +26,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 ## II. The Two Beginings
 
 - Plato, [*Ion*]()
-- Plato, [*The Replubic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X
+- Plato, [*The Republic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X
 - Aristotle, [*Poetics*](). &ensp; <i class="far fa-bookmark"></i> Sec. I-XIV
 
 <br>

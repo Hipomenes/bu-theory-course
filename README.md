@@ -1,5 +1,2 @@
-# Fiesta y enigma
+# Theory Course
 
-Backend for the course **Fiesta y enigma** (LS 576).
-
-DHC

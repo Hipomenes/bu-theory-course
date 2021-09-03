@@ -29,9 +29,7 @@ navbar-links:
   <i class="fas fa-graduation-cap"></i> Course:
     - General Policies: "policies"
     - Courses Grading: "grading"
-    - Assignments: "assignments"
     - Resources: "resources"
-    - Bibliography: "bibliography"
   <i class="fas fa-book-open"></i> Readings: "syllabus"
   <i class="far fa-calendar-alt"></i> Schedule: "calendar"
   Blog: "blog"

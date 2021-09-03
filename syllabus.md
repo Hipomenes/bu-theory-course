@@ -12,7 +12,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ![kakfa](http://cdn8.openculture.com/wp-content/uploads/2014/02/Fencing-1917.jpg)
 
-## I. Introduction: *Dichtung und Wahrheit* 
+## Introduction: *Dichtung und Wahrheit* 
 
 - Martin Heidegger, ["...Poetically Man Dwelts..."](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/courses/ls850-theory-fall-2021-dhc/heidegger-poetically.pdf?csf=1&web=1&e=ljTQAF) (1951)
 
@@ -23,7 +23,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-## II. The Two Beginnings
+## I. The Two Beginnings
 
 - Plato, [*Ion*]()
 - Plato, [*The Republic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X
@@ -31,7 +31,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-## III. The Art of Interpretation
+## II. The Art of Interpretation
 
 - Dante, ["Letter XIII to Can Grande della Scala about allegory"](https://faculty.georgetown.edu/jod/cangrande.english.html)
 - Christine de Pizan, ["Christine's Reaction to Jean de Montreuil's Treatise on the
@@ -39,14 +39,14 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 <br>
 
-## IV. Social Contexts and Historical Awareness
+## III. Social Contexts and Historical Awareness
 
 - Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()
 - Hans Robert Jauss, ["Literary history as a challenge to literary theory"]() (1967)
 
 <br>
 
-## V. The Structuralist Revolution
+## IV. The Structuralist Revolution
 
 - Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/Saussure-Course-in-general-linguistics-2011.pdf?csf=1&web=1&e=b9O8tf) (1906 - 1911). &ensp; <i class="far fa-bookmark"></i> Intro: 1-5, I: 1, II: 1, 3-4
 - Roman Jacobson, [*Two Aspects of Language and Two Types of Aphasic Disturbances*]()
@@ -57,7 +57,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 <br>
 
-## VI. From Russian Formalism to Bakhtin
+## V. From Russian Formalism to Bakhtin
 
 - Viktor Shlovsky, ["Art as Device"]()
 - Boris Mikhailovich Eikhenbaum, ["The theory of the 'Formal Method'"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/theory_fomal_method.pdf?csf=1&web=1&e=bnCAOG) (1926)
@@ -69,7 +69,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 <br>
 
-## VII. Language and the Unconscious 
+## VI. Language and the Unconscious 
 
 - Freud, [*The Interpretation of Dreams*]()
 - Freud, ["The Moses of Michelangelo"]() (1914)
@@ -77,7 +77,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 ![kafka2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9iVJQpSQgdhlhXvwshCo6OkshTQLgUgUe6aQYHRY8BUnzJX_41pjQUCsDAxSaLl2j_E&usqp=CAU)
 
-## VIII. Post-Structuralism
+## VII. Post-Structuralism
 
 - Barthes, ["The Death of the Author"]() and ["From Work to Text"]()
 - Foucault, ["What Is an Author?"]()
@@ -85,7 +85,7 @@ Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
 
 <br>
 
-## IX. Destruktion / Deconstruction
+## VII. Destruktion / Deconstruction
 
 - Jacques Derrida, [*Of Grammatology*]() &ensp; <i class="far fa-bookmark"></i> Preface, Part I. 
 The Exorbitant. Question of Method
@@ -97,33 +97,33 @@ The Exorbitant. Question of Method
 
 <br>
 
-## X. Against the Signifier
+## IX. Against the Signifier
 
 - Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*]() (1975)
 - Gilles Deleuze and Felix Guattari, [*A Thousand Plateaus: Capitalism and Schizophrenia*]() (1987) &ensp; <i class="far fa-bookmark"></i> ["Introduction: Rhizome"]() 
 
 <br>
 
-## XI. From Gender Performance to the Chthulucene 
+## X. From Gender Performance to the Chthulucene 
 
 - Judith Butler, [*Gender Trouble: Feminism and the Subversion of Identity*]() (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-3
 - Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"]() (1983)
 
 <br>
 
-## XII. (Thanksgiving Break)
+## XI. (Thanksgiving Break)
 
 *Independent research.*
 
 <br>
 
-## XIII. Beyond North-Atlantic Universals 
+## XII. Beyond North-Atlantic Universals 
 
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"]()
 - Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-2, 6.
 
 <br>
 
-## XIV Final Paper Workshop
+## XIII Final Paper Workshop
 
 ![kafka3](http://cdn8.openculture.com/wp-content/uploads/2014/02/Three-Runners-1912-1913.jpg)

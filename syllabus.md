@@ -25,8 +25,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## I. The Two Beginnings
 
-- Plato, [*Ion*]()
-- Plato, [*The Republic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X
+- Plato, [*Ion*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/Eb-b7DXm6iNMuZseKqLydKgBd5L2YFD6Aqj_xRh26L2L1A?e=Dc6no0)
+- Grace Ledbetter, [*Poetics Before Plato](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EVErxA3dzOtDiAz0f4tcu-8BewWeLQdbsx7dP5IpfLW1Iw?e=rqtkWU). &ensp; <i class="far fa-bookmark"></i> Intro & Chapter 1
 - Aristotle, [*Poetics*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EaXDKl5vDv1GkZSdIowcx8YBH8F2M9NuZAemCTg6rZiiUA?e=hSp2mS). &ensp; <i class="far fa-bookmark"></i> Sec. I-XIV
 
 <br>

@@ -27,7 +27,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 - Plato, [*Ion*]()
 - Plato, [*The Republic*, selections](). &ensp; <i class="far fa-bookmark"></i> Books II, III, X
-- Aristotle, [*Poetics*](). &ensp; <i class="far fa-bookmark"></i> Sec. I-XIV
+- Aristotle, [*Poetics*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EaXDKl5vDv1GkZSdIowcx8YBH8F2M9NuZAemCTg6rZiiUA?e=hSp2mS). &ensp; <i class="far fa-bookmark"></i> Sec. I-XIV
 
 <br>
 

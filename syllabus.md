@@ -33,9 +33,9 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## II. The Art of Interpretation
 
-- Dante, ["Letter XIII to Can Grande della Scala about allegory"](https://faculty.georgetown.edu/jod/cangrande.english.html)
-- Christine de Pizan, ["Christine's Reaction to Jean de Montreuil's Treatise on the
-Roman de la Rose"]() and ["The Book of the City of Ladies," selections]()
+- Dante, ["Il Convivio"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESfJE1anmkhDjXlTm2kRL5kB9SiWE_SzyfNtoFSQP-eakA?e=mJJbr1) &ensp; <i class="far fa-bookmark"></i> Book II, Chap.1
+- Dante, ["Letter XIII to Can Grande della Scala about allegory"](https://faculty.georgetown.edu/jod/cangrande.english.html) 
+- Christine de Pizan, ["The Book of the City of Ladies"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/Eflix7OF7XdJvzvntbmwUksB8omGNP-NZn-jHkFmPeMA7A?e=KDtZiJ) &ensp; <i class="far fa-bookmark"></i> Selections
 
 <br>
 

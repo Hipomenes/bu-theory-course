@@ -12,10 +12,10 @@ facebook:
   urlTemplate: "https://www.facebook.com/{value}"
   icon: "fab fa-facebook"
   
-calendly:
-  name: "Calendly"
+officehours:
+  name: "Office Hours"
   urlTemplate: "https://calendly.com/{value}"
-  icon: "fas fa-comments"
+  icon: "far fa-building"
 
 github:
   name: "GitHub"

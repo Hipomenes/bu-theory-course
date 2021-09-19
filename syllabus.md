@@ -41,7 +41,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## III. Social Contexts and Historical Awareness
 
-- Madame de Staël, [*De la littérature, considérée dans ses rapports avec les institutions sociales*]()(1801)
+- Madame de Staël, [*Literature Considered in its Relation to Social Institutions*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQPP6gLLPqhIrgsQl0ukUesBAQW7i2b4wZXXs33pAGcwQw?e=yzgBuJ)(1801)
 - Hans Robert Jauss, ["Literary history as a challenge to literary theory"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EbE3OsC6LhJAuxjYGxMAPuYBTwFBr9-lCVlpWD0B9m-WWQ?e=ihU203) (1967)
 
 <br>

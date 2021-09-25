@@ -49,7 +49,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 ## IV. The Structuralist Revolution
 
 - Ferdinand de Saussure, [*Course in General Linguistics*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQp0X2xB1YZKmV67NzVDeQAB4vsiCeicgnEOsjwHZYl_wQ?e=e4n7jR) (1906 - 1911). &ensp; <i class="far fa-bookmark"></i> Intro: 1-5, I: 1, II: 1, 3-4
-- Gilles Deleuze, ["A quoi reconnait-on le structuralisme?"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQp0X2xB1YZKmV67NzVDeQAB4vsiCeicgnEOsjwHZYl_wQ?e=9zCqRQ) ~ [Traducción al español](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWomLtJfV1pAoXLDWEFAtvoB13l9AEbfzXqzEEDIilkd0Q?e=KmxLrJ)
+- Gilles Deleuze, ["A quoi reconnait-on le structuralisme?"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQp0X2xB1YZKmV67NzVDeQAB4vsiCeicgnEOsjwHZYl_wQ?e=9zCqRQ) [(Spanish Translation)](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWomLtJfV1pAoXLDWEFAtvoB13l9AEbfzXqzEEDIilkd0Q?e=KmxLrJ)
 
 <br>
 

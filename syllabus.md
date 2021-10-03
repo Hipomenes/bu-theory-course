@@ -53,15 +53,11 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 <br>
 
-## V. From Russian Formalism to Bakhtin
+## V. The Russian Formalists
 
-- Viktor Shlovsky, ["Art as Device"]()
-- Boris Mikhailovich Eikhenbaum, ["The theory of the 'Formal Method'"](https://bushare-my.sharepoint.com/:b:/r/personal/dhcg_bu_edu/Documents/ls850-theory-fall-2021-dhc/theory_fomal_method.pdf?csf=1&web=1&e=bnCAOG) (1926)
-- Mikhail Bakhtin, ["Epic and Novel: Toward a Methodology for the Study of the Novel"]()
-
-### Suggested Reading
-
-- Tzvetan Todorov, ["Some Approaches to Russian Formalism"]() (1971)
+- Viktor Shlovsky, ["Art as Device"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ETJuJa_MBh9PgJVDwuM75C8B6gISorhbGJvhnn2cpPbCIw?e=22bBl5)
+- Boris Mikhailovich Eikhenbaum, ["The theory of the 'Formal Method'"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQIIG5IE5LZLgpBUz2mtl54BnFFeljxAqK35HKq6jNoyWA?e=JC7JrU) (1926)
+- Tzvetan Todorov, ["Some Approaches to Russian Formalism"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/Eaz3hp9vUBFPohNHF5O_INUBkhaazQ3KBo7RmwywAq54KA?e=ckMIo6) (1971)
 
 <br>
 

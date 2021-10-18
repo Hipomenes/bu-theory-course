@@ -63,9 +63,9 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## VI. Language and the Unconscious 
 
-- Freud, [*The Interpretation of Dreams*]()
-- Freud, ["The Moses of Michelangelo"]() (1914)
-- Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud"]() (1957)
+- ~~Freud, [*The Interpretation of Dreams*]()~~
+- ~~Freud, ["The Moses of Michelangelo"]() (1914)~~
+- ~~Lacan, ["The Agency of the Letter in the Unconscious or Reason Since Freud"]() (1957)~~
 
 ![kafka2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9iVJQpSQgdhlhXvwshCo6OkshTQLgUgUe6aQYHRY8BUnzJX_41pjQUCsDAxSaLl2j_E&usqp=CAU)
 
@@ -73,7 +73,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 - Barthes, ["The Death of the Author"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYmnDLVxeT1NpZqTBL0peOMBEGz04spZEC3iTB6SYHcYSg?e=N4e3GF) and ["From Work to Text"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EeHU8jdsCZNPt83675Gk1HsBW8TqorXal0I9oFlWVFAU7g?e=ezDa0G) 
 - Michael Foucault, ["What Is an Author?"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EUAlitxndLJMloomYGpP05oBnubjxZgLQ8HFEkLNK1neMA?e=cgtbEA)
-- Julia Kristeva, ["Of Subjectivity in Language"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZtPNwTbn5hMkTEKxC3kL28BVIL5TqZNsZ2S-2lj8-SQAA?e=3laL1K)
+- Emile Benveniste, ["Of Subjectivity in Language"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZtPNwTbn5hMkTEKxC3kL28BVIL5TqZNsZ2S-2lj8-SQAA?e=3laL1K)
 
 <br>
 

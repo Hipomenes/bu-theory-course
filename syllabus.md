@@ -79,9 +79,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## VII. Destruktion / Deconstruction
 
-- Jacques Derrida, [*Of Grammatology*]() &ensp; <i class="far fa-bookmark"></i> Preface, Part I. 
-The Exorbitant. Question of Method
-- Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"]() (1970)
+- Jacques Derrida, [*Of Grammatology*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZC0PpxjW_hHlLnAtgGdfqkBut43patarQMlzG8SZrTBpg?e=w5spgj) &ensp; <i class="far fa-bookmark"></i> Selection
+- Jacques Derrida, ["Structure, Sign, and Play in the Discourse of the Human Sciences"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ES-BHoBjUiFEncerlRMAgrMBcAxZApSKxZsfi2-tJUezNQ?e=xGJ59n)
 
 ### Interesting Aside
 

@@ -90,8 +90,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## IX. Against the Signifier
 
-- Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*]() (1975)
-- Gilles Deleuze and Felix Guattari, [*A Thousand Plateaus: Capitalism and Schizophrenia*]() (1987) &ensp; <i class="far fa-bookmark"></i> ["Introduction: Rhizome"]() 
+- Gilles Deleuze and Felix Guattari, [*Kafka: Toward a Minor Literature*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQG7Qsm1uxxJhEpyeJe0Pb0BR-BwBG7hdbrI-ekz0De66Q?e=fLOPMh) (1975) &ensp; <i class="far fa-bookmark"></i> Chapters 1-3
+- Gilles Deleuze and Felix Guattari, [*A Thousand Plateaus: Capitalism and Schizophrenia*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESp_-cqynOtAi5gMxiwIQ_ABnwQ8ksRnxmZT2Nc3KlJ40Q?e=RhWojS) (1987) &ensp; <i class="far fa-bookmark"></i> "Introduction: Rhizome"
 
 <br>
 

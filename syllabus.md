@@ -97,8 +97,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## X. From Gender Performance to the Chthulucene 
 
-- Judith Butler, [*Gender Trouble: Feminism and the Subversion of Identity*]() (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-3
-- Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"]() (1983)
+- Judith Butler, [*Gender Trouble: Feminism and the Subversion of Identity*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EUqs4pSu5EtLgEd580Vy1YYB0-wrO3WdP3enbi6bHL162g?e=bUTLHa) (1990) &ensp; <i class="far fa-bookmark"></i> Preface, Chap. 3
+- Donna Haraway, ["A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdjHPJ0By35OqPwop425Jn4BVV0WRtMp7rD1UTcTeCNIxQ?e=QOFRbf) (1983)
 
 <br>
 

@@ -104,7 +104,8 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 
 ## XI. Postcolonialism 
 
-- TBA
+- Franz Fanon, [selections](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EbL7Vyl4LhJNr47AVE2T0mkBz-6y5LlVXMspzaQKKiIMwg?e=v5x31I).
+- Homi K. Bhabha, [selections](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZlmJiZUlNdBrMkkEw8QA3oBwjDZ2V3Wyp4yalaNdbXzuA?e=F1poCS).
 
 ## XII. (Thanksgiving Break)
 

@@ -116,7 +116,7 @@ bigimg: https://www.moma.org/media/W1siZiIsIjIzMjcxMiJdLFsicCIsImNvbnZlcnQiLCItc
 ## XIII. Beyond North-Atlantic Universals 
 
 - Michel-Rolph Trouillot, ["North Atlantic Universals: Analytical Fictions, 1492-1945"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EUm7NVfwLY1Ds4iWIFOBsrIB6GOphx0Wj6TdcoC9mM9rUg?e=Q1a0Rz)
-- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](). &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1-2, 6.
+- Paul Gilroy, [*The Black Atlantic Modernity and Double-Consciousness*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EXL53t3xqBxOgeyxILS4U88B7wxoDmN6aHCT-rIYuq-gcA?e=7eWY1p). &ensp; <i class="far fa-bookmark"></i> Preface, Chaps. 1 and 2.
 
 <br>
 
